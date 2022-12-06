@@ -6,7 +6,6 @@
 * **Github**: [maks19891](https://github.com/maks19891)
 
 ## **About me**
-
 I try to apply logic and a practical approach to solving problems and problems that arise. I strive to get things done. I strive to learn and overcome difficulties.
 
 ## **My skills**
@@ -15,7 +14,6 @@ I try to apply logic and a practical approach to solving problems and problems t
 + JS
 
 ## **Code Example**
-
 I'm just start learning frontend...
 
 ## **Languages**
