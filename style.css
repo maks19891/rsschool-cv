@@ -1,4 +1,51 @@
-p{
-    color: #545454;
-    background: rgb(196, 222, 255);
+body {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+    justify-content: center;
+    color:#2c2c2c;
+    background-color: #dadada;
+}
+
+.header {
+    padding-top: 15px;
+	padding-bottom: 15px;
+    border: 1px solid green;
+}
+
+.navMenu {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    text-transform: uppercase;
+}
+
+li {
+    padding: 10px 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.mainInfo {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid brown;
+}
+
+.leftSide, .rightSide {
+    width: 15%;
+}
+
+.main {
+    padding: 20px;
+}
+.aboutMe {
+    display: flex;
+    justify-content: center;
+    
+}
+.aboutMe img .textAboutMe{
+    padding: 20px, 50px ;
 }
