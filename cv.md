@@ -19,7 +19,7 @@ I try to apply logic and a practical approach to solving problems and problems t
 ```javascript
 function greet() {
   return ('hello world!');
-}
+};
 ```
 
 ## **Courses:**
