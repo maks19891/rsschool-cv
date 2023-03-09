@@ -2,7 +2,7 @@
 
 ## **Contacts:**
 * **Telegram**: @pozzzitiv
-* **E-Mail**: maks19891@gmail.com
+* **E-Mail**: maks19891@gmail.com | maks19891@ya.ru
 * **Github**: [maks19891](https://github.com/maks19891)
 
 ## **About me:**
