@@ -7,3 +7,17 @@
 
 ## **About me:**
 I try to apply logic and a practical approach to solving problems and problems that arise. I strive to get things done. I strive to learn and overcome difficulties.
+
+## **Skills:**
++ HTML
++ CSS
++ JS
++ VS Code
++ Photoshop
+
+## **Code Example:**
+```javascript
+function greet() {
+  return ('hello world!');
+}
+```
