@@ -21,3 +21,11 @@ function greet() {
   return ('hello world!');
 }
 ```
+
+## **Courses:**
++ JS / FRONT-END. STAGE 0 (RU)
+
+## **Languages:**
++ Russian 
++ Ukrainian
++ English
